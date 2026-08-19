@@ -1,6 +1,6 @@
 body {
   background-color: lightblue;
-  background-image: url(assets/images/marioBackground.png);
+  background-image: url(../assets/images/marioBackground.png);
   background-size: cover;
 }
 
