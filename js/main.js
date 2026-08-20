@@ -1,5 +1,5 @@
 function draw() {
-  const canvas = document.getElementById("my-canvas");
+  const canvas = document.getElementById("game");
   const ctx = canvas.getContext("2d");
 
   ctx.fillStyle = "rgb(200 0 0)";
