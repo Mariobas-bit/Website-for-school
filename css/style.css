@@ -15,5 +15,5 @@ p {
 }
 
 div {
-  background-color: white;
+  block-size: auto;
 }
