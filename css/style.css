@@ -17,4 +17,5 @@ p {
 div {
   block-size: auto;
   background-color: white;
+  border: lightgreen;
 }
