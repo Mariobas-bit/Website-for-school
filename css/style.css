@@ -7,6 +7,12 @@ body {
 h1 {
   color: orange;
   text-align: center;
+  background: black;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 10px; 
+  width: auto;
 }
 
 p {
