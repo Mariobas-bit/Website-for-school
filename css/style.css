@@ -15,7 +15,11 @@ p {
 }
 
 div {
-  block-size: auto;
-  background-color: white;
-  border: lightgreen;
+  background: gray;
+  padding: 20px;
+  border-radius: 8px;
+  display: inline-block;
+  margin: 10px; 
+  width: 250px;
+  vertical-align: top;
 }
