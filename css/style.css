@@ -8,7 +8,6 @@ body {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 30px;
 }
 
 h1 {
@@ -32,7 +31,6 @@ div {
   border-radius: 12px;
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
   width: 100%;
-  max-width: 600px;
   box-sizing: border-box;
   text-align: center;
 }
